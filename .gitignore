@@ -7,6 +7,11 @@ build/
 # 演示工程运行时数据
 demo/data/
 
+# 课程材料（仅本地保留，不入库）
+SchoolLifeComplex-组会材料.zip
+实践教学1.pdf
+竞品分析文档_模板.docx
+
 # 环境变量
 .env
 .env.local
